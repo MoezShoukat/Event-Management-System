@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/Event.html",
+      "permanent": true
+    }
+  ]
+}
