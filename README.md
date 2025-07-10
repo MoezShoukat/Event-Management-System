@@ -29,14 +29,14 @@ A dynamic PHP-based web application designed to manage events — from creation 
 
 🧩 Project Structure
 
-Event.php – Main page displaying event listings
-addEvent.php – Page for adding new events
-updateEvent.php – Page to edit existing events
-deleteEvent.php – Script to handle event deletions
-db_connect.php – Database connection file (MySQL)
-assets/ – Folder for static assets (CSS, images, etc.)
+- Event.php – Main page displaying event listings
+- addEvent.php – Page for adding new events
+- updateEvent.php – Page to edit existing events
+- deleteEvent.php – Script to handle event deletions
+- db_connect.php – Database connection file (MySQL)
+- assets/ – Folder for static assets (CSS, images, etc.)
   style.css – Custom styling for dark theme UI
-README.md – Project documentation file
+- README.md – Project documentation file
 
 
 Screenshots:
