@@ -1,9 +1,3 @@
-{
-  "redirects": [
-    {
-      "source": "/",
-      "destination": "/Event.html",
-      "permanent": true
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:05e4579ff2f44c6a3db1a675fefad6d1e4db8a15334133ff78f7739c388d8141
+size 127
