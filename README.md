@@ -44,4 +44,5 @@ Screenshots:
 
 ![HomePage](https://github.com/user-attachments/assets/52cce760-738f-4d67-bf89-b2fe4776acff)
 
-
+Vercel Deployment:
+https://events-management-system-eight.vercel.app/Event.html
