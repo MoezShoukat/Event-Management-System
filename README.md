@@ -30,16 +30,19 @@ A dynamic PHP-based web application designed to manage events — from creation 
 ## 🧩 Project Structure
 
 event-management-system/
-├── event.php # Main page with event listings
-├── addEvent.php # Form to add a new event
-├── updateEvent.php # Edit existing events
-├── deleteEvent.php # Handle event deletion
-├── db_connect.php # Database connection script
-├── assets/ # CSS, images, etc.
-└── README.md  
+├── home.php              # Main page displaying event listings
+├── addEvent.php          # Page to add new events
+├── updateEvent.php       # Page to update existing events
+├── deleteEvent.php       # Script to handle event deletion
+├── db_connect.php        # MySQL database connection script
+├── assets/               # Folder for CSS, images, and other assets
+│   └── style.css         # Custom styling for the UI
+└── README.md             # Project documentation
+
 
 Screenshots:
 ![HomePage](https://github.com/user-attachments/assets/0d7ba606-5e5a-4274-a4b8-3d763b96b379)
 
-![HomePage](https://github.com/user-attachments/assets/2a9d2b9a-051f-49d7-8d68-a8185df7b705)
+![HomePage](https://github.com/user-attachments/assets/52cce760-738f-4d67-bf89-b2fe4776acff)
+
 
